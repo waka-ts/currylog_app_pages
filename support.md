@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## サポート
 
-You can use the [editor on GitHub](https://github.com/waka-ts/currylog_app_pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+アプリに対するご意見、ご要望などございましたら、以下にご連絡ください
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### [Twitter](https://twitter.com/waka-ts)
 
 ### Markdown
 
