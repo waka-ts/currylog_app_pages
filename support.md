@@ -2,7 +2,7 @@
 
 アプリに対するご意見、ご要望などございましたら、以下にご連絡ください
 
-#### [Twitter](https://twitter.com/ts-waka)
+#### [Twitter](https://twitter.com/ts_waka)
 
 ### Markdown
 
